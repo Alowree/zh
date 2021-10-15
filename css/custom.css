@@ -1,0 +1,32 @@
+#heo-footer {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    max-width: 1200px;
+    margin: 1rem auto;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-bottom: 3rem;
+    padding: 0 1rem;
+}
+
+#heo-footer .footer-group {
+    min-width: 120px;
+}
+
+#heo-footer .footer-title {
+    color: var(--heo-secondtext);
+    font-size: .8rem;
+    text-align: left;
+}
+
+#heo-footer .footer-links {
+    display: flex;
+    flex-direction: column;
+}
+
+#heo-footer .footer-item {
+    font-size: .8rem;
+    color: var(--heo-fontcolor);
+    margin-right: auto;
+}
