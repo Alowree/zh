@@ -2,6 +2,97 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://zh.fineq.cn/cases/index.html</loc>
+    
+    <lastmod>2021-10-16</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://zh.fineq.cn/team/index.html</loc>
+    
+    <lastmod>2021-10-16</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://zh.fineq.cn/download/index.html</loc>
+    
+    <lastmod>2021-10-16</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://zh.fineq.cn/message/index.html</loc>
+    
+    <lastmod>2021-10-16</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://zh.fineq.cn/services/index.html</loc>
+    
+    <lastmod>2021-10-16</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://zh.fineq.cn/tags/index.html</loc>
+    
+    <lastmod>2021-10-16</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://zh.fineq.cn/categories/index.html</loc>
+    
+    <lastmod>2021-10-16</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://zh.fineq.cn/contact/index.html</loc>
+    
+    <lastmod>2021-10-16</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://zh.fineq.cn/company/index.html</loc>
+    
+    <lastmod>2021-10-16</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://zh.fineq.cn/posts/46571/</loc>
+    
+    <lastmod>2021-10-16</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://zh.fineq.cn/speakers/index.html</loc>
+    
+    <lastmod>2021-10-16</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://zh.fineq.cn/speakers/gw521/index.html</loc>
+    
+    <lastmod>2021-10-16</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://zh.fineq.cn/speakers/s281/index.html</loc>
+    
+    <lastmod>2021-10-16</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://zh.fineq.cn/posts/16107/</loc>
     
     <lastmod>2021-10-15</lastmod>
@@ -11,7 +102,7 @@
 
   <url>
     <loc>https://zh.fineq.cn/</loc>
-    <lastmod>2021-10-15</lastmod>
+    <lastmod>2021-10-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
