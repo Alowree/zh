@@ -2,7 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://zh.fineq.cn/speakers/gw521/index.html</loc>
+    <loc>https://zh.fineq.cn/speakers/capella/index.html</loc>
+    
+    <lastmod>2021-10-18</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://zh.fineq.cn/speakers/index.html</loc>
+    
+    <lastmod>2021-10-18</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://zh.fineq.cn/speakers/alcor/index.html</loc>
     
     <lastmod>2021-10-17</lastmod>
     
@@ -79,20 +93,6 @@
   </url>
   
   <url>
-    <loc>https://zh.fineq.cn/speakers/index.html</loc>
-    
-    <lastmod>2021-10-16</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://zh.fineq.cn/speakers/s281/index.html</loc>
-    
-    <lastmod>2021-10-16</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://zh.fineq.cn/posts/16107/</loc>
     
     <lastmod>2021-10-15</lastmod>
@@ -102,7 +102,7 @@
 
   <url>
     <loc>https://zh.fineq.cn/</loc>
-    <lastmod>2021-10-17</lastmod>
+    <lastmod>2021-10-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
