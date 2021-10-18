@@ -2,7 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://zh.fineq.cn/speakers/alcor/index.html</loc>
+    <loc>https://zh.fineq.cn/posts/capella/</loc>
+    
+    <lastmod>2021-10-18</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://zh.fineq.cn/posts/alcor/</loc>
     
     <lastmod>2021-10-18</lastmod>
     
@@ -16,7 +23,14 @@
   </url>
   
   <url>
-    <loc>https://zh.fineq.cn/speakers/index.html</loc>
+    <loc>https://zh.fineq.cn/company/index.html</loc>
+    
+    <lastmod>2021-10-18</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://zh.fineq.cn/team/index.html</loc>
     
     <lastmod>2021-10-18</lastmod>
     
@@ -25,14 +39,28 @@
   <url>
     <loc>https://zh.fineq.cn/cases/index.html</loc>
     
-    <lastmod>2021-10-16</lastmod>
+    <lastmod>2021-10-18</lastmod>
     
   </url>
   
   <url>
-    <loc>https://zh.fineq.cn/team/index.html</loc>
+    <loc>https://zh.fineq.cn/services/index.html</loc>
     
-    <lastmod>2021-10-16</lastmod>
+    <lastmod>2021-10-18</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://zh.fineq.cn/speakers/alcor/index.html</loc>
+    
+    <lastmod>2021-10-18</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://zh.fineq.cn/speakers/index.html</loc>
+    
+    <lastmod>2021-10-18</lastmod>
     
   </url>
   
@@ -45,13 +73,6 @@
   
   <url>
     <loc>https://zh.fineq.cn/message/index.html</loc>
-    
-    <lastmod>2021-10-16</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://zh.fineq.cn/services/index.html</loc>
     
     <lastmod>2021-10-16</lastmod>
     
@@ -75,27 +96,6 @@
     <loc>https://zh.fineq.cn/contact/index.html</loc>
     
     <lastmod>2021-10-16</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://zh.fineq.cn/company/index.html</loc>
-    
-    <lastmod>2021-10-16</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://zh.fineq.cn/posts/46571/</loc>
-    
-    <lastmod>2021-10-16</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://zh.fineq.cn/posts/16107/</loc>
-    
-    <lastmod>2021-10-15</lastmod>
     
   </url>
   
