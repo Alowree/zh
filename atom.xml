@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>FINEQ</title>
+  
+  <subtitle>Fine Quality is Paramount</subtitle>
+  <link href="https://zh.fineq.cn/atom.xml" rel="self"/>
+  
+  <link href="https://zh.fineq.cn/"/>
+  <updated>2021-10-18T23:57:38.000Z</updated>
+  <id>https://zh.fineq.cn/</id>
+  
+  <author>
+    <name>FINEQ</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>FINEQ便携式蓝牙音箱Alcor</title>
+    <link href="https://zh.fineq.cn/posts/alcor/"/>
+    <id>https://zh.fineq.cn/posts/alcor/</id>
+    <published>2022-10-24T01:48:02.570Z</published>
+    <updated>2021-10-18T23:57:38.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="产品图库"><a href="#产品图库" class="headerlink" title="产品图库"></a>产品图库</h2><div class="fj-gallery"><p><img src="https://gitee.com/Alowree/img/raw/master/FINEQ_Alcor_front_view_11.jpg"></p><p><img src="https://gitee.com/Alowree/img/raw/master/FINEQ_Alcor_front_view_12.jpg"></p><p><img src="https://gitee.com/Alowree/img/raw/master/FINEQ_Alcor_front_view_13.jpg"></p><p><img src="https://gitee.com/Alowree/img/raw/master/FINEQ_Alcor_front_view_14.jpg"></p><p><img src="https://gitee.com/Alowree/img/raw/master/FINEQ_Alcor_front_view_15.jpg"></p><p><img src="https://gitee.com/Alowree/img/raw/master/GW521_Cover.jpg"></p><p><img src="https://gitee.com/Alowree/img/raw/master/FINEQ_Alcor_front_view_03.jpg"></p><p><img src="https://gitee.com/Alowree/img/raw/master/FINEQ_Alcor_front_view_04.jpg"></p><p><img src="https://gitee.com/Alowree/img/raw/master/FINEQ_Alcor_front_view_05.jpg"></p>          </div><h2 id="功能特色"><a href="#功能特色" class="headerlink" title="功能特色"></a>功能特色</h2><ul><li><p>2.1通道大音量便携式蓝牙音箱 </p></li><li><p>IPX5防水级别，防水溅，防雨淋</p></li><li><p>支持蓝牙无线，AUX IN，U盘，FM收音机</p></li><li><p>支持TWS(True Wireless System) - 真无线蓝牙立体声</p></li><li><p>支持RGB彩灯 - 三种亮炫效果</p></li><li><p>内置锂电池 3.7V 3000mAh - 正常音量欣赏音乐持续4-5小时无压力</p></li><li><p>固定提手 + 不锈钢背带挂扣</p></li></ul><h2 id="产品详情"><a href="#产品详情" class="headerlink" title="产品详情"></a>产品详情</h2><p><img src="https://gitee.com/Alowree/img/raw/master/FINEQ_Alcor_Front_view_16.jpg"></p><table><thead><tr><th>产品简介</th><th></th><th></th></tr></thead><tbody><tr><td>品牌型号</td><td>品牌</td><td>FINEQ</td></tr><tr><td></td><td>名称</td><td>Alcor</td></tr><tr><td></td><td>型号</td><td>GW521</td></tr><tr><td>蓝牙无线</td><td>蓝牙版本</td><td>V5.1+BR+EDR</td></tr><tr><td></td><td>蓝牙芯片+型号</td><td>JL, AC6951C</td></tr><tr><td></td><td>蓝牙协议</td><td>A2DP/AVRCP</td></tr><tr><td></td><td>蓝牙接收距离</td><td>视距10米</td></tr><tr><td>电子参数</td><td>电池容量</td><td>3.7V 3000mAh</td></tr><tr><td></td><td>充电时间</td><td>5小时</td></tr><tr><td></td><td>充电电流</td><td>DC 5V 1.5A</td></tr><tr><td></td><td>播放时间（50%音量）</td><td>4.5小时</td></tr><tr><td></td><td>播放时间（100%音量）</td><td>2小时</td></tr><tr><td></td><td>信噪比</td><td>60dB</td></tr><tr><td></td><td>喇叭频率</td><td>70Hz -16KHz</td></tr><tr><td></td><td>产品尺寸</td><td>356（宽） x 134（深） x 178   （高） mm</td></tr><tr><td></td><td>真实功放功率</td><td>18瓦</td></tr><tr><td></td><td>最大功放功率</td><td>36瓦</td></tr><tr><td>高音喇叭</td><td>喇叭尺寸</td><td>2英吋</td></tr><tr><td></td><td>喇叭数量</td><td>1</td></tr><tr><td></td><td>额定功率</td><td>4瓦</td></tr><tr><td></td><td>最大功率</td><td>10瓦</td></tr><tr><td></td><td>阻抗</td><td>4Ω</td></tr><tr><td>全频喇叭</td><td>喇叭尺寸</td><td>3英吋</td></tr><tr><td></td><td>喇叭数量</td><td>2</td></tr><tr><td></td><td>额定功率</td><td>7瓦 x 2</td></tr><tr><td></td><td>最大功率</td><td>25瓦 x 2</td></tr><tr><td></td><td>阻抗</td><td>4Ω</td></tr><tr><td>支持功能</td><td>蓝牙功能</td><td>Yes</td></tr><tr><td></td><td>真无线配对</td><td>Yes</td></tr><tr><td></td><td>收音功能</td><td>Yes</td></tr><tr><td></td><td>音频功能</td><td>Yes</td></tr><tr><td></td><td>LED灯</td><td>RGB彩灯，3种模式</td></tr><tr><td></td><td>列表循环</td><td>Yes</td></tr><tr><td></td><td>随机播放</td><td>No</td></tr><tr><td></td><td>固定提手</td><td>Yes</td></tr><tr><td>音源输入</td><td>蓝牙无线</td><td>Yes</td></tr><tr><td></td><td>AUX IN</td><td>Yes</td></tr><tr><td></td><td>U盘播放</td><td>Yes</td></tr><tr><td></td><td>FM收音</td><td>Yes</td></tr><tr><td>随机配件</td><td>3.5mm音频线</td><td>Yes</td></tr><tr><td></td><td>Type-C充电线</td><td>Yes</td></tr><tr><td></td><td>肩带</td><td>No</td></tr></tbody></table>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;产品图库&quot;&gt;&lt;a href=&quot;#产品图库&quot; class=&quot;headerlink&quot; title=&quot;产品图库&quot;&gt;&lt;/a&gt;产品图库&lt;/h2&gt;&lt;div class=&quot;fj-gallery&quot;&gt;&lt;p&gt;&lt;img src=&quot;https://gitee.com/Alowree/im</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>FINEQ便携式蓝牙音箱Capella</title>
+    <link href="https://zh.fineq.cn/posts/capella/"/>
+    <id>https://zh.fineq.cn/posts/capella/</id>
+    <published>2021-10-16T13:32:32.000Z</published>
+    <updated>2021-10-18T23:58:06.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="产品图库"><a href="#产品图库" class="headerlink" title="产品图库"></a>产品图库</h2><div class="fj-gallery"><p><img src="https://gitee.com/Alowree/img/raw/master/S281_Cover.jpg"><br><img src="https://gitee.com/Alowree/img/raw/master/FINEQ_Capella_02.jpg"></p><p><img src="https://gitee.com/Alowree/img/raw/master/FINEQ_Capella_03.jpg"></p><p><img src="https://gitee.com/Alowree/img/raw/master/FINEQ_Capella_04.jpg"></p><p><img src="https://gitee.com/Alowree/img/raw/master/FINEQ_Capella_05.jpg"></p><p><img src="https://gitee.com/Alowree/img/raw/master/FINEQ_Capella_06.jpg"></p><p><img src="https://gitee.com/Alowree/img/raw/master/FINEQ_Capella_07.jpg"></p>          </div><h2 id="功能特色"><a href="#功能特色" class="headerlink" title="功能特色"></a>功能特色</h2><ul><li><p>4.1通道大音量便携式蓝牙音箱 </p></li><li><p>IPX5防水级别，防水溅，防雨淋</p></li><li><p>支持蓝牙无线，AUX IN，U盘，FM收音机</p></li><li><p>支持TWS(True Wireless System) - 真无线蓝牙立体声</p></li><li><p>支持RGB彩灯 - 三种亮炫效果</p></li><li><p>内置锂电池 7.4V 4400mAh - 正常音量欣赏音乐持续6-8小时无压力</p></li><li><p>CNC铝合金提手 </p></li></ul><h2 id="产品详情"><a href="#产品详情" class="headerlink" title="产品详情"></a>产品详情</h2><table><thead><tr><th>产品简介</th><th></th><th></th></tr></thead><tbody><tr><td>品牌型号</td><td>品牌</td><td>FINEQ</td></tr><tr><td></td><td>名称</td><td>Capella</td></tr><tr><td></td><td>型号</td><td>S281</td></tr><tr><td>蓝牙无线</td><td>蓝牙版本</td><td>V4.2+BR</td></tr><tr><td></td><td>蓝牙芯片+型号</td><td>ACTIONS,   ATS2825C</td></tr><tr><td></td><td>蓝牙协议</td><td>A2DP/AVRCP</td></tr><tr><td></td><td>蓝牙发射功率</td><td>4dbm</td></tr><tr><td></td><td>蓝牙接收距离</td><td>10M</td></tr><tr><td>电子参数</td><td>电池容量</td><td>7.4V,   4400mAh</td></tr><tr><td></td><td>电池类型</td><td>18650锂电池</td></tr><tr><td></td><td>充电电流</td><td>DC 5V 1.5A</td></tr><tr><td></td><td>充电时间</td><td>5小时（使用2A电源适配器）</td></tr><tr><td></td><td>50%音量的播放时间</td><td>3小时</td></tr><tr><td></td><td>100%音量的播放时间</td><td>2小时</td></tr><tr><td></td><td>Mirco SD卡支持最大的内存</td><td>不支持</td></tr><tr><td></td><td>USB支持最大的内存</td><td>32GB</td></tr><tr><td></td><td>信噪比</td><td>65dB（蓝牙状态）</td></tr><tr><td></td><td>频率范围</td><td>80Hz   -15KHz</td></tr><tr><td></td><td>产品尺寸</td><td>215（长）   x 215（宽） x 387 （高） mm</td></tr><tr><td></td><td>产品重量</td><td>4.77千克</td></tr><tr><td></td><td>语音提示</td><td>Special   tone</td></tr><tr><td></td><td>软件设定的低电提示电压</td><td>6.6V</td></tr><tr><td></td><td>软件设定的自动关机电压</td><td>6.2V</td></tr><tr><td></td><td>最大功率失真度</td><td>7%</td></tr><tr><td></td><td>真实攻放功率</td><td>74瓦</td></tr><tr><td></td><td>最大攻放功率</td><td>74瓦</td></tr><tr><td>全频喇叭</td><td>喇叭尺寸</td><td>2.5英吋</td></tr><tr><td></td><td>喇叭数量</td><td>4</td></tr><tr><td></td><td>真实功率</td><td>3.5瓦</td></tr><tr><td></td><td>最大功率</td><td>3.5瓦</td></tr><tr><td></td><td>阻抗</td><td>4   Ω</td></tr><tr><td>低音喇叭</td><td>喇叭尺寸</td><td>5.25英吋</td></tr><tr><td></td><td>喇叭数量</td><td>1</td></tr><tr><td></td><td>真实功率</td><td>30瓦   x 2</td></tr><tr><td></td><td>最大功率</td><td>30瓦   x 2</td></tr><tr><td></td><td>阻抗</td><td>4Ω</td></tr><tr><td>支持功能</td><td>固定提手</td><td>Yes</td></tr><tr><td></td><td>真无线配对</td><td>Yes</td></tr><tr><td></td><td>收音功能</td><td>Yes</td></tr><tr><td></td><td>蓝牙功能</td><td>Yes</td></tr><tr><td></td><td>音频功能</td><td>Yes</td></tr><tr><td></td><td>LED灯或RGB灯</td><td>RGB彩灯</td></tr><tr><td>音源输入</td><td>蓝牙无线</td><td>Yes</td></tr><tr><td></td><td>AUX IN</td><td>Yes</td></tr><tr><td></td><td>U盘播放</td><td>Yes</td></tr><tr><td></td><td>FM收音</td><td>Yes</td></tr><tr><td></td><td>6.35mm麦克风接口</td><td>Yes</td></tr><tr><td>随机配件</td><td>音频线</td><td>Yes</td></tr><tr><td></td><td>充电线</td><td>Yes</td></tr></tbody></table>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;产品图库&quot;&gt;&lt;a href=&quot;#产品图库&quot; class=&quot;headerlink&quot; title=&quot;产品图库&quot;&gt;&lt;/a&gt;产品图库&lt;/h2&gt;&lt;div class=&quot;fj-gallery&quot;&gt;&lt;p&gt;&lt;img src=&quot;https://gitee.com/Alowree/im</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>

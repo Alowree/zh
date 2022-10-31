@@ -1,0 +1,51 @@
+@font-face {
+    font-family: logofont;
+    src: url('./fonts/Mokoto_Glitch.otf') format('opentype'),
+            url('./fonts/Mokoto_Glitch.ttf') format('truetype');
+}
+
+#nav #site-name,
+#page-header #site-title,
+#aside-content .card-info .author-info__name {
+    font-family: logofont;
+}
+
+#heo-footer {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    max-width: 1200px;
+    margin: 1rem auto;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-bottom: 3rem;
+    padding: 0 1rem;
+}
+
+#heo-footer .footer-group {
+    min-width: 120px;
+}
+
+#heo-footer .footer-title {
+    color: var(--heo-secondtext);
+    font-size: 1rem;
+    text-align: left;
+}
+
+#heo-footer .footer-links {
+    display: flex;
+    flex-direction: column;
+}
+
+#heo-footer .footer-item {
+    font-size: 1rem;
+    color: var(--heo-fontcolor);
+    margin-right: auto;
+}
+
+tbody tr:nth-child(2n) {
+  background: rgba(158,188,226,0.12);
+}
+tr:hover {
+  background: #efefef;
+}
